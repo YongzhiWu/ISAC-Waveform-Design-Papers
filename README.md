@@ -46,7 +46,8 @@
     </tr>
 </table>
 
-References:
+### References:
+
 [1] C. Sturm and W. Wiesbeck, "Waveform Design and Signal Processing Aspects for Fusion of Wireless Communications and Radar Sensing," *Proceedings of the IEEE*, vol. 99, no. 7, pp. 1236-1259, July 2011. [[paper](https://ieeexplore.ieee.org/abstract/document/5776640)]
 
 [2] Y. Zeng, Y. Ma and S. Sun, "Joint Radar-Communication With Cyclic Prefixed Single Carrier Waveforms," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 4, pp. 4069-4079, April 2020. [[paper](https://ieeexplore.ieee.org/abstract/document/9005192)]
