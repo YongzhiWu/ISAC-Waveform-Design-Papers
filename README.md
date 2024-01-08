@@ -12,7 +12,7 @@
         <td>OFDM</td>
         <td>[1]</td>
         <td>[7]</td>
-        <td></td>
+        <td>[11]</td>
         <td>[10]</td>
     </tr>
     <tr>
@@ -68,4 +68,4 @@
 
 [10] J. A. Zhang, X. Huang, Y. J. Guo, J. Yuan and R. W. Heath, "Multibeam for Joint Communication and Radar Sensing Using Steerable Analog Antenna Arrays," *IEEE Transactions on Vehicular Technology*, vol. 68, no. 1, pp. 671-685, Jan. 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8550811)]
 
-
+[11] Y. Wu, and C. Han, "Time-Frequency-Space Transmit Design and Signal Processing with Dynamic Subarray for Terahertz Integrated Sensing and Communication", arXiv preprint: 2307.04440, Jul. 2023. [[arXiv](https://arxiv.org/abs/2307.04440)]
